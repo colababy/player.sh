@@ -18,4 +18,4 @@
 ```/home/pi/player.sh stop```
 
 ## 目的
-配合[pi_weixin_server](https://github.com/wfd0807/pi_weixin_server.git)实现微信控制家庭媒体播放器.
+用户树莓派制家庭媒体播放器.
